@@ -1,0 +1,20 @@
+Static Lamé uniqueness proof exposition
+
+The uniqueness theorem, constrained transport mechanism and core argument are
+adapted from OpenAI, Global Uniqueness for the Smooth Isotropic Elasticity
+Inverse Problem, in the openai/math repository, revision
+fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb:
+https://github.com/openai/math/tree/fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026
+
+The source repository distributes its material under Apache License 2.0. A
+copy of that license accompanies this package. At the pinned revision there
+was no repository-root NOTICE file. The original attribution is preserved.
+
+Kaiwen Jin prepared the modified exposition dated 12 October 2026, assisted
+by Codex. The modified paper combines the source argument into a standalone
+manuscript, supplies analytic details and direct elliptic estimates, and adds
+reader-facing explanation, references and an explicit attribution statement.
+The theorem is not an original discovery by the exposition's author.
+
+The modified LaTeX source and its PDF, and the accompanying package documents
+and build script, are distributed under Apache License 2.0.

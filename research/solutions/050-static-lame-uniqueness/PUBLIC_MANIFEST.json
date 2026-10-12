@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "problem_id": "050",
+  "package_type": "analytic proof exposition and literature update",
+  "generated_at": "2026-10-12T05:25:38.976110Z",
+  "target_revision": "c9929805cece044705abaaebe1cebddac1ba11a6",
+  "primary_source": {
+    "repository": "https://github.com/openai/math",
+    "revision": "fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb",
+    "author": "OpenAI"
+  },
+  "manuscript_author": "Kaiwen Jin",
+  "manuscript_contact": "yui.ui.siki@gmail.com",
+  "license": "Apache-2.0",
+  "files": [
+    {
+      "path": "LICENSE",
+      "purpose": "Apache License 2.0, copied from the pinned primary-source repository",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "NOTICE",
+      "purpose": "Primary-source attribution and description of modifications",
+      "bytes": 1212,
+      "sha256": "6fe899b74446992db489505215aac04b09ac88656e194cc6ce35aa182ca9a1a3"
+    },
+    {
+      "path": "README.md",
+      "purpose": "Public package entry point, attribution and build instructions",
+      "bytes": 3282,
+      "sha256": "5ca7588b58bf45594d391e797d585254e03bf2d665ab42f6e2694743c6c2c979"
+    },
+    {
+      "path": "TARGET_COMPARISON.md",
+      "purpose": "Comparison of the original statement and manuscript",
+      "bytes": 4574,
+      "sha256": "e1213242a79d92455c2515fdd0d1d18312d276c215a7e24493801abbdb71399b"
+    },
+    {
+      "path": "build.sh",
+      "purpose": "Standalone LaTeX build command",
+      "bytes": 164,
+      "sha256": "1f4a0a6fed6001455a2f38641f0cbdac81d3fb3590d8ab7890544ea255b635c8"
+    },
+    {
+      "path": "paper/static_lame_uniqueness.pdf",
+      "purpose": "Final 27-page manuscript",
+      "bytes": 477531,
+      "sha256": "6ff0ccb6817c0882f74ab3a5f0d2414f0e221c78bf298b7f53060e081f20146a"
+    },
+    {
+      "path": "paper/static_lame_uniqueness.tex",
+      "purpose": "Complete editable mathematical exposition",
+      "bytes": 96479,
+      "sha256": "c2666a9d70151162820cd50e6d3609181127f8ed2dbc3c473b74015c69a6979b"
+    }
+  ],
+  "hashing_convention": "Payload files are listed here. SHA256SUMS also covers PUBLIC_MANIFEST.json; neither file hashes itself."
+}
